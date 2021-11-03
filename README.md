@@ -1,2 +1,10 @@
 # odin-recipies
-I need to write a summary of the skills that I used and the projects that I put here when I finish.
+First Html project.
+In this project I made recipie pages of a few of my favorite recipies. I will continue to add to this. 
+Skills demonstrated:
+  how to create a html page
+  the standard format of an html page
+  how to write ordered and unordered lists
+  how to create a hyper link with standard text
+  how to make page titles
+  knowledge of standard elements and layout.
