@@ -1,0 +1,23 @@
+.title {
+    font-size: medium;
+    color: blue;
+
+}
+
+.ing .sauce {
+    text-align: center;
+    font-size: small;
+}
+
+.ing {
+    color: aqua;
+
+}
+
+.sauce {
+    color: red;
+}
+
+div {
+    color: green;
+}
