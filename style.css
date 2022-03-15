@@ -1,23 +1,28 @@
-.title {
-    font-size: medium;
-    color: blue;
-
+body {
+   background-image: url(recipies/img/chicken.jpeg) ;
+    background-repeat: repeat;
 }
 
-.ing .sauce {
+.recipie {
     text-align: center;
     font-size: small;
+    background-color: blue;
 }
 
-.ing {
+#ing {
     color: aqua;
 
 }
 
-.sauce {
+.sauce #sauce {
     color: red;
 }
 
-div {
+#pre {
     color: green;
+}
+.border{
+    margin: 40px;
+    border:0;
+    padding:30px;
 }
